@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 98bd803 (Add deploy stage)
 #!/usr/bin/env python3
 
 import subprocess
